@@ -38,7 +38,7 @@ To host this repository on GitHub Pages:
 4. Go to Repository Settings → Pages
 5. Select the branch (usually `main`) and root directory
 6. Save and wait for deployment
-7. Your site will be live at `https://samin-yasar.github.io/docs/seatplan.pdf`
+7. Your site will be live at `https://yourusername.github.io/yourrepo`
 
 ## 🔄 Updating Files
 
